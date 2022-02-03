@@ -5,7 +5,7 @@
 I'm a  self-taught Jr. Web Developer looking to help to create a better world.
 
 
-Welcome to my Github! I'm passionate about learning 🤓, coding 👨🏾‍💻, entrepeneurship 🚀, finance 📈, web3 🌐 and food 🧑🏾‍🍳.
+Welcome to my Github! I'm passionate about learning 🤓, coding 👨🏾‍💻, entrepreneurship 🚀, finance 📈, web3 🌐 and food 🧑🏾‍🍳.
 
 
 I'm looking to help startups to beat climate change, to reduce all types of inequality or just creating something great.
