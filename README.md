@@ -1,3 +1,6 @@
+<img src="Portrait.png"
+    alt="Portrait image" />
+
 # Heey! I'm Rodrigo Goitia | Rodrux
 
 ## About me
